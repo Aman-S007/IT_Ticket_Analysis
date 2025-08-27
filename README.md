@@ -48,5 +48,3 @@ To support decision-making, the final dashboard includes:
 
 ## 🧠 Author
 **Amanjeet Saroha**  
-
-Would you like me to help you write a project description or tagline for GitHub too? Something punchy like “Optimizing IT support through data-driven insights”?
